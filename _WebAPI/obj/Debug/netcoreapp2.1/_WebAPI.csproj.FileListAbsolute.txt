@@ -1,0 +1,17 @@
+/Users/1r0nf1st/Projects/Docker/_WebAPI/bin/Debug/netcoreapp2.1/_WebAPI.deps.json
+/Users/1r0nf1st/Projects/Docker/_WebAPI/bin/Debug/netcoreapp2.1/_WebAPI.runtimeconfig.json
+/Users/1r0nf1st/Projects/Docker/_WebAPI/bin/Debug/netcoreapp2.1/_WebAPI.runtimeconfig.dev.json
+/Users/1r0nf1st/Projects/Docker/_WebAPI/bin/Debug/netcoreapp2.1/_WebAPI.dll
+/Users/1r0nf1st/Projects/Docker/_WebAPI/bin/Debug/netcoreapp2.1/_WebAPI.pdb
+/Users/1r0nf1st/Projects/Docker/_WebAPI/obj/Debug/netcoreapp2.1/_WebAPI.csprojAssemblyReference.cache
+/Users/1r0nf1st/Projects/Docker/_WebAPI/obj/Debug/netcoreapp2.1/_WebAPI.csproj.CoreCompileInputs.cache
+/Users/1r0nf1st/Projects/Docker/_WebAPI/obj/Debug/netcoreapp2.1/_WebAPI.RazorAssemblyInfo.cache
+/Users/1r0nf1st/Projects/Docker/_WebAPI/obj/Debug/netcoreapp2.1/_WebAPI.RazorAssemblyInfo.cs
+/Users/1r0nf1st/Projects/Docker/_WebAPI/obj/Debug/netcoreapp2.1/_WebAPI.AssemblyInfoInputs.cache
+/Users/1r0nf1st/Projects/Docker/_WebAPI/obj/Debug/netcoreapp2.1/_WebAPI.AssemblyInfo.cs
+/Users/1r0nf1st/Projects/Docker/_WebAPI/obj/Debug/netcoreapp2.1/_WebAPI.RazorTargetAssemblyInfo.cache
+/Users/1r0nf1st/Projects/Docker/_WebAPI/obj/Debug/netcoreapp2.1/_WebAPI.dll
+/Users/1r0nf1st/Projects/Docker/_WebAPI/obj/Debug/netcoreapp2.1/_WebAPI.pdb
+/Users/1r0nf1st/Projects/Docker/_WebAPI/bin/Debug/netcoreapp2.1/1r0nf1st.dll
+/Users/1r0nf1st/Projects/Docker/_WebAPI/bin/Debug/netcoreapp2.1/1r0nf1st.pdb
+/Users/1r0nf1st/Projects/Docker/_WebAPI/obj/Debug/netcoreapp2.1/_WebAPI.csproj.CopyComplete

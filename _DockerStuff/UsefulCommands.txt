@@ -1,0 +1,10 @@
+docker ps -a --check what containers are on the machine
+docker rm <containerid> --remove containers by id
+docker pull microsoft/mssql-server-linux:2017-latest --getdocker on your machine run this and you have sql running on a machine
+docker run -d --name sql_2017_lnx -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=P@55w0rd' -e 'MSSQL_PID=Developer' -p 1433:1433 microsoft/mssql-server-linux:2017-latest
+
+Create sql back stuff
+Step 1: Copy the .bak file into your Docker container.
+docker cp ~/Downloads/sql/dogfood.bak container-name:/tmp/dogfood.bak
+Step 2: Run SQL RESTORE
+docker exec container-name /opt/mssql-tools/bin/sqlcmd -U sa -P P@55w0rd -Q "RESTORE DATABASE [dogfood] FROM DISK='/tmp/dogfood.bak' WITH MOVE 'dogfood' TO '/var/opt/mssql/data/dogfood.mdf', MOVE 'dogfood_Log' TO '/var/opt/mssql/data/dogfood_Log.ldf' "

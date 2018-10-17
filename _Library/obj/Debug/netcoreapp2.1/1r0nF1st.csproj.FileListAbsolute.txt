@@ -1,0 +1,9 @@
+/Users/1r0nf1st/Projects/Docker/_Library/bin/Debug/netcoreapp2.1/1r0nF1st.deps.json
+/Users/1r0nf1st/Projects/Docker/_Library/bin/Debug/netcoreapp2.1/1r0nF1st.dll
+/Users/1r0nf1st/Projects/Docker/_Library/bin/Debug/netcoreapp2.1/1r0nF1st.pdb
+/Users/1r0nf1st/Projects/Docker/_Library/obj/Debug/netcoreapp2.1/1r0nF1st.csprojAssemblyReference.cache
+/Users/1r0nf1st/Projects/Docker/_Library/obj/Debug/netcoreapp2.1/1r0nF1st.csproj.CoreCompileInputs.cache
+/Users/1r0nf1st/Projects/Docker/_Library/obj/Debug/netcoreapp2.1/1r0nF1st.AssemblyInfoInputs.cache
+/Users/1r0nf1st/Projects/Docker/_Library/obj/Debug/netcoreapp2.1/1r0nF1st.AssemblyInfo.cs
+/Users/1r0nf1st/Projects/Docker/_Library/obj/Debug/netcoreapp2.1/1r0nF1st.dll
+/Users/1r0nf1st/Projects/Docker/_Library/obj/Debug/netcoreapp2.1/1r0nF1st.pdb
