@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/1r0nf1st/Projects/Docker/_Library/1r0nF1st.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
